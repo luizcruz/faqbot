@@ -6,4 +6,5 @@ First attempt to write a automated answer bot to Twitter social network. It is a
 
 Reference: 
 * https://github.com/creatorrr/pyAIML
+* https://github.com/tweepy/tweepy
 * http://www.alicebot.org/aiml.html
